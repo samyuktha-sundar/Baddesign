@@ -29,3 +29,32 @@ Add clear direction signs.
 Use barriers to guide people.
 
 Widen the pathway near the gate.
+
+Bad Design: Delete for Everyone Notification
+
+Description:
+Even after using "Delete for Everyone", the receiver still sees "This message was deleted.", creating unnecessary curiosity.
+
+Source of Photograph: (Captured Picture)
+
+Place:
+WhatsApp Chat
+
+Reasons why the design is bad:
+
+Creates unnecessary curiosity.
+
+Reduces user privacy.
+
+Clutters the chat.
+
+May cause misunderstandings.
+
+
+Suggested Improvement:
+
+Remove the message without any notification.
+
+Add an option for silent deletion.
+
+Keep the chat clean and private.
